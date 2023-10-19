@@ -1,6 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
+        checkNumber(11);
+        checkNumber(-4);
+        checkNumber(0);
+
     }
 
     public static void checkNumber(int number) {
